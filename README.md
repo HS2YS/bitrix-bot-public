@@ -18,11 +18,12 @@
 - **Гибкая логика обработки статусов**: Различие между новыми задачами и возобновлёнными задачами на основе времени создания и статуса.
 
 ## Демонстрация работы:
-<div style="display: flex;">
-  <img href="[https://imgur.com/a/kqKlLiB](https://imgur.com/a/kqKlLiB)" width="300" height="150">
-  <img href="[https://imgur.com/a/kqKlLiB](https://imgur.com/iKzXAw8)" width="300" height="150">
-  <img href="[https://imgur.com/a/kqKlLiB](https://imgur.com/674UW5R)" width="300" height="150">
+<div style="display: flex; gap: 10px;">
+  <img src="https://i.imgur.com/iKzXAw8.jpg" width="350" height="150">
+  <img src="https://i.imgur.com/674UW5R.jpg" width="350" height="150">
+  <img src="https://imgur.com/fdfYj2Y.jpg" width="350" height="150">
 </div>
+
 
 
 
